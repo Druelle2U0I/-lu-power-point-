@@ -1,0 +1,15 @@
+{
+  "name": "enma-formation-fonctions-elu",
+  "private": true,
+  "description": "Générateur du support PowerPoint « Fonctions de l'élu » – ENMA Formation",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-icons": "^5.7.0",
+    "sharp": "^0.35.0"
+  }
+}
